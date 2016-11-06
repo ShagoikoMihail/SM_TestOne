@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <SM_TestOne>
+            <version>1.0.0</version>
+        </SM_TestOne>
+    </modules>
+    <global>
+    </global>
+
+    <frontend>
+        <layout>
+            <updates>
+                <testone module="testone">
+                    <file>testone.xml</file>
+                </testone>
+            </updates>
+        </layout>
+    </frontend>
+
+    <admin>
+
+    </admin>
+</config>
